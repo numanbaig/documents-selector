@@ -1,0 +1,34 @@
+[
+  {
+    "category": "Drugs Policies",
+    "documents": [{ "id": 1, "name": "Albama - Drugs Policies" }]
+  },
+  {
+    "category": "Employee Handbooks",
+    "documents": [{ "id": 2, "name": "Albama - Employee Handbooks" }]
+  },
+  {
+    "category": "Equipment Selection",
+    "documents": [{ "id": 3, "name": "Albama - Equipment Selection" }]
+  },
+  {
+    "category": "Non-Compete Agreements",
+    "documents": [{ "id": 4, "name": "Albama - Non-Compete Agreement" }]
+  },
+  {
+    "category": "Payroll Handbook",
+    "documents": [{ "id": 5, "name": "Albama - Payroll Handbook" }]
+  },
+  {
+    "category": "PTO Policy",
+    "documents": [{ "id": 6, "name": "Albama - PTO Policy" }]
+  },
+  {
+    "category": "Safety Manuals",
+    "documents": [{ "id": 7, "name": "Albama - Safety Manuals" }]
+  },
+  {
+    "category": "Sexual-Harassment",
+    "documents": [{ "id": 8, "name": "Albama - Sexual-Harassment" }]
+  }
+]
